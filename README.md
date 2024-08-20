@@ -13,7 +13,7 @@ Run workflow at https://github.com/marykuo/react-website/actions/workflows/build
 ### Run Image
 
 ```shell
-docker run -d -p 8088:8088 ghcr.io/marykuo/react-website:main
+docker run -d -p 3000:3000 ghcr.io/marykuo/react-website:main
 ```
 
 ## Local
